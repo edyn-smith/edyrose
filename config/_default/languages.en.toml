@@ -8,9 +8,9 @@ title = "EDYROSE DESIGNS"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/edyrose_logo.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Personally crafted products for your enjoyment."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
