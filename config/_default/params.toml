@@ -7,7 +7,7 @@
 
 colorScheme = "forest"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -35,7 +35,7 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 12
