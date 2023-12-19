@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs"]
+mainSections = ["products"]
 # robots = ""
 
 disableImageOptimization = false
@@ -57,7 +57,7 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/edyn-smith/edyrose/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
