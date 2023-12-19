@@ -1,5 +1,7 @@
 /public/
 /resources/
+/themes/
+/themes/blowfish/
 .hugo_build.lock
 go.sum
 
